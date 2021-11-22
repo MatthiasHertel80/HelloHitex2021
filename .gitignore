@@ -1,0 +1,7 @@
+
+*.d
+Hello Tensorflow.uvguix.mather01
+*.o
+tensorflow_hello_world/BUILD
+tensorflow_hello_world/images/animation_on_arduino_mkrzero.gif
+*.gif
